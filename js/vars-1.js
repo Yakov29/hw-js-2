@@ -1,0 +1,12 @@
+const str = 'Привет';
+const strMode = typeof str;
+const number = 29;
+const numberMode = typeof number;
+const flag = true;
+const flagMode = typeof flag;
+const txt = 'true';
+const txtMode = typeof txt;
+console.log(strMode);
+console.log(numberMode);
+console.log(flagMode);
+console.log(txtMode);
